@@ -1,0 +1,27 @@
+---
+title: "Automate R workflow with make"
+author: "Pep Porrà"
+date: "2023-02-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Goal
+
+Show how to automate R workflows (Analysis, create R package) using make utility 
+in Windows
+
+## Install make utility
+
+## References
+
+* [Tutorial on using make to automate analysis](https://tilburgsciencehub.com/tutorials/reproducible-research-and-automation/practicing-pipeline-automation-make/pipeline-automation-overview/)
+* [All methods to install make in Windows](https://www.technewstoday.com/install-and-use-make-in-windows/)
+* [Install Make using chocolatery](https://linuxhint.com/install-use-make-windows/)
+* [Using make in Linux](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)
+* [Complete tutorial about make](https://makefiletutorial.com/)
+* [Minimal make](https://kbroman.org/minimal_make/)
+* [Make file for R](https://robjhyndman.com/hyndsight/makefiles/)
